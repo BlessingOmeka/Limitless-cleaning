@@ -7,7 +7,7 @@
   --hue: 200;
   --saturation: 70%;
   --lightness: 55%;
-  --main-color: #97bc62;
+  --main-color: #0079DB;
 
   /* text colors */
   --text-white: hsl(0, 0%, 100%);
@@ -578,7 +578,7 @@ textarea.input-control{
 }
 .contact-info-item{
   position: relative;
-  padding: 20px 0 20px 70px;
+  padding: 10px 0 5px 70px;
 }
 .contact-info-item + .contact-info-item{
   margin-top: 20px;
@@ -641,7 +641,7 @@ textarea.input-control{
 
 .sub-div{
   height: 100px;
-  background-color: #97bc62;
+  background-color: #0079DB;
   width: 300px;
   height: 150px;
   color: white;
